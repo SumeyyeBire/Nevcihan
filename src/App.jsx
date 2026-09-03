@@ -56,7 +56,7 @@ function Home3D() {
       {/* 3D Sahne Katmanı */}
       <div style={{ width: '100%', height: '100%' }}>
         <Spline
-          scene="https://prod.spline.design/3lJ5jiti04aGhtWY/scene.splinecode"
+          scene="https://prod.spline.design/3IJ5jiti04aGhtWY/scene.splinecode"
           onLoad={onLoad}
           onSplineMouseDown={onSplineMouseDown}
         />
